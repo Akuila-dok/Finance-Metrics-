@@ -17,7 +17,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/akuila-dok/finance-calculator-app.git
+git clone https://github.com/akuila-dok/Finance-Metrics-/.git
 cd finance-calculator-app
 Install dependencies:
 
